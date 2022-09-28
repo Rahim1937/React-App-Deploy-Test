@@ -1,0 +1,15 @@
+.home-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.search-input{
+    padding: 15px;
+    width: 50%;
+}
+.searcth-fiueld{
+    padding: 17px 17px;
+    background-color: rgb(69, 63, 179);
+    border: none;
+    color: white;
+    
+}

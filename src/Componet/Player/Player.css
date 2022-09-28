@@ -1,0 +1,13 @@
+.cart{
+    width: 250px;
+    height: 400px;
+    border: 1px solid gray;
+    padding: 8px;
+    margin: 10px;
+    box-shadow: 2px 2px 4px gray;
+    border-radius: 10px;
+}
+.player-img{
+    width: 100%;
+
+}
